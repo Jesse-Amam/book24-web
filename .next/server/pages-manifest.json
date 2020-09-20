@@ -1,7 +1,22 @@
 {
+  "/404": "pages/404.js",
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
+  "/about": "pages/about.js",
+  "/account": "pages/account.js",
+  "/blog": "pages/blog.js",
+  "/blogPost": "pages/blogPost.js",
+  "/bookings": "pages/bookings.js",
+  "/checkout": "pages/checkout.js",
+  "/confirm": "pages/confirm.js",
+  "/contacts-2": "pages/contacts-2.js",
+  "/contacts": "pages/contacts.js",
+  "/detail-carousel-2": "pages/detail-carousel-2.js",
+  "/detail-carousel": "pages/detail-carousel.js",
+  "/detail-hotel-openstreetmap": "pages/detail-hotel-openstreetmap.js",
+  "/detail-hotel": "pages/detail-hotel.js",
+  "/detail-restaurant": "pages/detail-restaurant.js",
   "/grid-listings-filterscol": "pages/grid-listings-filterscol.js",
-  "/detail-restaurant": "pages/detail-restaurant.js"
+  "/": "pages/index.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
 }
