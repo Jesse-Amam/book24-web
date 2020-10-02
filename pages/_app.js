@@ -1,5 +1,10 @@
 import React from "react";
 import Head from "next/head";
+// import '/font/stylesheet.css'
+import './admin/styles/adminIndex.css';
+import './login/styles/login.css'
+import "./admin/sidebar/styles/sidebar.css";
+import "./admin/hotels/styles/hotels.css";
 import App, { Container } from "next/app";
 
 class MyApp extends App {

@@ -2,10 +2,11 @@ const Header = () => {
     return (
 <header className="header menu_fixed">
 		<div id="logo">
-			<a href="/index" title="Sparker - Directory and listings template">
+		<p className="hellix-medium-white-18">Book24</p>
+			{/* <a href="/index" title="Sparker - Directory and listings template">
 				<img src="/images/logo.svg" width="165" height="35" alt="" className="logo_normal"/>
 				<img src="/images/logo_sticky.svg" width="165" height="35" alt="" className="logo_sticky"/>
-			</a>
+			</a> */}
 		</div>
 		<ul id="top_menu">
 			<li><a href="/account" className="btn_add">Add Listing</a></li>
